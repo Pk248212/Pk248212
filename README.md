@@ -1,12 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align ="right" alt="Coding" width="352" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pk248212&label=Profile%20views&color=0e75b6&style=flat" alt="pk248212" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pk248212" alt="pk248212" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/praveen_bt19" target="blank"><img src="https://img.shields.io/twitter/follow/praveen_bt19?logo=twitter&style=for-the-badge" alt="praveen_bt19" /></a> </p>
+<img align ="right" alt="Coding" width="500" src="picc.gif">
 
 - 🔭 I’m currently working in **Google**.
 
@@ -25,6 +21,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YHUlEZurR5ob3Mkrrc8BfuLRvI_X6drO/view?usp=sharing](https://drive.google.com/file/d/1YHUlEZurR5ob3Mkrrc8BfuLRvI_X6drO/view?usp=sharing)
 
 - ⚡ Fun fact **I am not in Google but I wanted to be in.**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk248212&label=Profile%20views&color=0e75b6&style=flat" alt="pk248212" /> </p>
+
+<p align="left"> <a href="https://twitter.com/praveen_bt19" target="blank"><img src="https://img.shields.io/twitter/follow/praveen_bt19?logo=twitter&style=for-the-badge" alt="praveen_bt19" /></a> </p>
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pk248212" alt="pk248212" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
