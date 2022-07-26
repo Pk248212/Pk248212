@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align ="right" alt="Coding" width="500" src="picc.gif">
+<img align ="right" alt="Coding" width="400" src="picc.gif">
 
 - 🔭 I’m currently working in **Google**.
 
